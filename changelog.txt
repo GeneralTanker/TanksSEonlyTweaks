@@ -1,0 +1,72 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.13
+Date: 01-07-2022
+  Fixes:
+   - Fix lead box subgroup change
+  Changes: 
+    - Removed Ground data card recipe and techs use The-Noble's version if you want a Ground data card recipe
+---------------------------------------------------------------------------------------------------
+Version: 0.0.12
+Date: 01-06-2022
+  Fixes:
+   - Disabled lead box subgroup change due to crash on startup.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.11
+Date: 01-06-2022
+  Fixes:
+    - Removed incompatibility with noble's se tweaks (conflicting settings can be disabled)
+  Changes: 
+    - Added Graphite to Vitalic Acid Batteries if bzcarbon is active. 
+---------------------------------------------------------------------------------------------------
+Version: 0.0.10
+Date: 07-26-2021
+  Fixes:
+    - Changed local util files and functions for updated bz mods
+---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+Date: 06-19-2021
+  Changes: 
+    - Fixed subgroups with some other mods than K2 to be placed within SE subgroups. (With some code from SE with Earendel's permission.)
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 05-25-2021
+  Changes: 
+    - Increased Vitalic Acid Batteries cost
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 05-18-2021
+  Fixes: 
+    - Moved locale for Vitalic Acid Batteries and Blank Data Card's Ground Recipe
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 05-11-2021
+  Fixes: 
+    - Fixed Vitalic Acid Batteries not having lead if bzlead is active still need to get Deadlock Stacked Recipes to work with recipe.
+  Changes: 
+    - Moved Vitalic Acid Batteries to the Chemical Plant
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 05-08-2021
+  Changes: 
+    - Integrated noble_se_tweaks for Blank Data Card's Ground Recipe and Vitalic Acid Batteries.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 05-01-2021
+  Changes: 
+    - Removed Compatibility for Deadlocks Larger Lamp due to SE allowing it on it's end. 
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 03-31-2021
+  Changes: 
+    - Added change for Nobles Vitalic Acid Batteries
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 03-13-2021
+  Changes: 
+    - Added Solid Fuel Compabilty form K2andK2SE Compabilty
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 02-15-2021
+  Changes:     
+    - Added Compatibility for Deadlocks Larger Lamp so it doesn't crash on startup. 
+---------------------------------------------------------------------------------------------------
