@@ -1,3 +1,6 @@
+require("prototypes.bioplastic.lua")
+require("prototypes.iridiumaxe.lua")
+
 --- Krastorio 2 Solid Fuel & Rocket Fuel Compabilty (Solid Fuel for SE, Rocket Fuel for K2) 
 
 --if data.raw.recipe["recpie name"] then
