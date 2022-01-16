@@ -19,7 +19,7 @@ local plastic_tech = {
     type = "technology",
     name = plastic_recipe.name,
     effects = { { type = "unlock-recipe", recipe = plastic_recipe.name } },
-    icon = "__space-exploration-extra-items__/graphics/technology/"..plastic_recipe.name..".png",
+    icon = "__TanksSEonlyTweaks__/graphics/tech/"..plastic_recipe.name..".png",
     icon_size = 128,
     order = "e-g",
     prerequisites = {
