@@ -1,6 +1,6 @@
 --Noble's Space Exploration Tweaks
 
-require("prototypes.vitbat"")
+require("prototypes.vitbat")
 
 -- SE subgroup fixes
 

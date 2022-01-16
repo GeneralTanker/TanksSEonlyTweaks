@@ -1,5 +1,5 @@
-require("prototypes.bioplastic.lua")
-require("prototypes.iridiumaxe.lua")
+require("prototypes.bioplastic")
+require("prototypes.iridiumaxe")
 
 --- Krastorio 2 Solid Fuel & Rocket Fuel Compabilty (Solid Fuel for SE, Rocket Fuel for K2) 
 

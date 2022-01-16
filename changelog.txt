@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 01-15-2022
+  Fixes:
+   - Cleaned up some mod setting options
+  Changes: 
+    - Add Iridium axe and Bioplastic processing from Space exploration extra items.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.13
 Date: 01-07-2022
   Fixes:

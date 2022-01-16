@@ -5,7 +5,7 @@ local iridiumaxe_tech = {
     type = "technology",
     name = "iridium-axe",
     effects = { { type = "character-mining-speed", modifier = 3 } },
-    icon = "__space-exploration-extra-items__/graphics/technology/iridium-axe.png",
+    icon = "__space-exploration-extra-items__/graphics/tech/iridium-axe.png",
     icon_size = 128,
     order = "e-g",
     prerequisites = {
